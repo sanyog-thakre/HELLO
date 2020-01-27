@@ -18,17 +18,16 @@
   color:blue;
   font-size: 20px;
   position:absolute;
-  transition: .5s ease;
   opacity:0;
   top: 40%;
   left: 40%;
-  box-align: center;
+  
   
   
 }
 .rounded{
   opacity: 1;
-  backface-visibility: hidden;
+  
   
 }
 
