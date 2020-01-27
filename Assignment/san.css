@@ -1,0 +1,50 @@
+.padding {
+
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+
+.sanyog:hover .effect{
+  opacity: 1;
+}
+.sanyog{
+  position: relative;
+  margin-left:20px;
+  
+}
+
+.effect {
+
+  color:blue;
+  font-size: 20px;
+  position:absolute;
+  transition: .5s ease;
+  opacity:0;
+  top: 40%;
+  left: 40%;
+  box-align: center;
+  
+  
+}
+.rounded{
+  opacity: 1;
+  backface-visibility: hidden;
+  
+}
+
+.sanyog:hover .rounded {
+  opacity: 0.5;
+  color: blue;
+}
+
+
+.navbar .nav-item:not(:last-child) {
+  margin-right: 35px;
+}
+
+.seprate{
+  margin-left: 900px;
+}
+.seprate a{
+  margin: 0px 0px;
+}
